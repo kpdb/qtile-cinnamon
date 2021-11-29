@@ -1,4 +1,4 @@
-pkgname=i3-cinnamon
+pkgname=qtile-cinnamon-git
 
 post_install() {
   update-desktop-database -q
